@@ -1,0 +1,1 @@
+CREATE DATABASE airflow WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE = 'en_US.utf8' TABLESPACE = 'pg_default';
