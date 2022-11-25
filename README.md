@@ -2,6 +2,10 @@
 
 
 ```bash
+
+# Baixar imagem do alpine
+docker pull alpine
+
 # subir banco de dados
 docker compose up -d postgres
 
